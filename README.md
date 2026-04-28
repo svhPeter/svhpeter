@@ -4,11 +4,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0EA5E9,50:8B5CF6,100:EC4899&height=240&section=header&text=samiverse&fontSize=85&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=software%20engineer%20%C2%B7%20ai-native%20%C2%B7%20karachi&descAlignY=68&descAlign=50&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0EA5E9,50:8B5CF6,100:EC4899&height=240&section=header&text=samiverse&fontSize=85&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=software%20engineer%20%C2%B7%20product%20builder%20%C2%B7%20karachi&descAlignY=68&descAlign=50&descSize=18" />
 
 <br/>
 
-[![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2400&pause=800&color=0EA5E9&center=true&vCenter=true&width=720&height=45&lines=software+engineer+who+ships+with+AI.;fundamentals+first.+AI+as+leverage.;currently+open+for+freelance+%E2%9A%A1)](https://www.aibuddy.design)
+[![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2400&pause=800&color=0EA5E9&center=true&vCenter=true&width=720&height=45&lines=i+ship+products%2C+not+side+projects.;built+for+production%2C+not+for+show.;currently+open+for+freelance+%E2%9A%A1)](https://www.aibuddy.design)
 
 <br/>
 
@@ -36,12 +36,12 @@
 ```diff
 @@ hey, i'm sami @@
 
-- another "AI developer" who only knows how to prompt
-+ a software engineer who uses AI as leverage, not as a crutch
+- another dev with a portfolio site
++ a software engineer who actually ships products
 
-  fundamentals first. AI tools second.
-  i ship real products to production —
-  faster than traditional dev, deeper than vibe coders.
+  i build things people use.
+  not tutorials. not clones. not "just for fun" forever.
+  real products. real users. shipped to production.
 ```
 
 <br/>
@@ -50,11 +50,10 @@
 
 ```ts
 const sami = {
-  role:        "Software Engineer · AI-Native · Product Builder",
+  role:        "Software Engineer · AI Developer · Product Builder",
   based_in:    "Karachi, Pakistan 🇵🇰",
   timezone:    "UTC+5 — overnight delivery for EU/US clients",
   ships:       ["full-stack web", "cross-platform mobile", "SaaS", "AI products"],
-  philosophy:  "you can't direct AI well if you don't understand what it's writing",
   obsessed_with: ["clean UIs", "fast load times", "code that survives prod"],
   curious_about: ["astronomy", "shaders", "3D graphics on the web"],
   available:   true
@@ -63,47 +62,7 @@ const sami = {
 
 <br/>
 
-> i build with AI in the loop — Cursor, Claude, Copilot, GPT — but i write systems, not just prompts.
-> the AI helps me move 10x faster.
-> the engineering keeps the code from falling apart in production.
-
-<br/>
-
----
-
-<!-- ============================================= -->
-<!-- 🤖 HOW I USE AI (the differentiator) -->
-<!-- ============================================= -->
-
-## 🤖 how i actually work with AI
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ✅ what i use AI for
-- scaffolding boilerplate fast
-- generating first-draft logic, then refining
-- writing tests + docs
-- explaining unfamiliar APIs
-- refactoring at scale
-- debugging complex stack traces
-
-</td>
-<td width="50%" valign="top">
-
-### 🚫 what i don't outsource to AI
-- system architecture decisions
-- security-critical logic (auth, payments)
-- database schema design
-- production debugging without understanding
-- code i can't read and modify myself
-
-</td>
-</tr>
-</table>
-
-> the rule i follow: **"if i can't explain why my code works, the AI didn't write code — it wrote a future bug."**
+> i take ideas → ship them as production-grade products. usually in days, not months.
 
 <br/>
 
@@ -200,21 +159,9 @@ why:     "I love astronomy"
 
 [![Skills](https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,flutter,dart,firebase,supabase,postgres,prisma,threejs,vercel&perline=13)](https://skillicons.dev)
 
-</div>
-
-### 🤖 AI tools in my workflow
-
-<div align="center">
-
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000?style=for-the-badge&logo=cursor&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Copilot](https://img.shields.io/badge/Copilot-000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+<sub>+ git, figma, vscode, postman — the usual production-grade toolkit</sub>
 
 </div>
-
-<sub><i>used as leverage, not replacement. i can read, modify, and debug everything that ships.</i></sub>
 
 <br/>
 
@@ -239,7 +186,7 @@ why:     "I love astronomy"
 - advanced Next.js patterns
 - multi-tenant SaaS scaling
 - 3D graphics + shader programming
-- AI agent architectures (real ones, not chatbots)
+- product positioning that converts
 
 </td>
 <td width="50%" valign="top">
