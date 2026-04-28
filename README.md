@@ -1,27 +1,26 @@
 <!-- ============================================= -->
-<!-- 🎬 ANIMATED TYPING BANNER -->
+<!-- 🎬 ANIMATED HEADER BANNER -->
 <!-- ============================================= -->
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&width=720&height=80&lines=Hi%2C+I'm+Sami+%F0%9F%91%8B;Full-Stack+%C2%B7+Mobile+%C2%B7+AI+Developer;Building+products+people+actually+use.;Available+for+freelance+%E2%9A%A1)](https://www.aibuddy.design)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Hi%20there,%20I'm%20Sami%20%F0%9F%91%8B&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%C2%B7%20Mobile%20%C2%B7%20AI%20Developer&descAlignY=58&descAlign=50" />
 
 <br/>
 
 <a href="https://www.aibuddy.design">
-  <img src="https://img.shields.io/badge/🌐_PORTFOLIO-aibuddy.design-000?style=for-the-badge&labelColor=0f172a" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&width=720&height=50&lines=Building+products+people+actually+use.;Available+for+freelance+%E2%9A%A1;Web+%C2%B7+Mobile+%C2%B7+AI+%C2%B7+SaaS" alt="Typing SVG" />
 </a>
-<a href="https://www.aibuddy.design">
-  <img src="https://img.shields.io/badge/💼_AVAILABLE_FOR_HIRE-22c55e?style=for-the-badge&labelColor=0f172a" />
-</a>
-<a href="https://github.com/svhPeter">
-  <img src="https://img.shields.io/badge/📍_KARACHI,_PK-3b82f6?style=for-the-badge&labelColor=0f172a" />
-</a>
+
+<br/><br/>
+
+<a href="https://www.aibuddy.design"><img src="https://img.shields.io/badge/PORTFOLIO-aibuddy.design-000?style=for-the-badge&labelColor=0f172a" /></a>
+<a href="https://www.aibuddy.design"><img src="https://img.shields.io/badge/AVAILABLE_FOR_HIRE-22c55e?style=for-the-badge&labelColor=0f172a" /></a>
+<img src="https://img.shields.io/badge/KARACHI,_PK-3b82f6?style=for-the-badge&labelColor=0f172a" />
 
 <br/>
 
-<!-- Profile views counter (live) -->
-<img src="https://komarev.com/ghpvc/?username=svhPeter&label=Profile%20views&color=0ea5e9&style=for-the-badge" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=svhPeter&label=Profile+views&color=0ea5e9&style=for-the-badge" alt="Profile views"/>
 <img src="https://img.shields.io/github/followers/svhPeter?label=Followers&style=for-the-badge&color=0ea5e9&labelColor=0f172a" alt="Followers"/>
 
 </div>
@@ -29,12 +28,12 @@
 <br/>
 
 <!-- ============================================= -->
-<!-- 🎯 SNAKE EATING CONTRIBUTIONS (animated) -->
+<!-- 🐍 SNAKE EATING CONTRIBUTIONS -->
 <!-- ============================================= -->
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/svhPeter/svhPeter/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/svhPeter/svhpeter/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -60,10 +59,6 @@ const sami = {
 - ⚡ **Landing pages & MVPs** — fast, conversion-focused, shipped in days not months
 
 <br/>
-
-<!-- ============================================= -->
-<!-- 🛠️ TECH STACK ICONS -->
-<!-- ============================================= -->
 
 ## 🛠️ Tech Stack
 
@@ -91,10 +86,6 @@ const sami = {
 
 <br/>
 
-<!-- ============================================= -->
-<!-- 💼 FEATURED WORK -->
-<!-- ============================================= -->
-
 ## 💼 Featured Work
 
 <table>
@@ -104,7 +95,7 @@ const sami = {
 ### 🏪 [ShopPOS](https://github.com/svhPeter/shop-pos-showcase)
 **Multi-tenant POS SaaS — production-ready**
 
-Full POS system for cafes & retail. Multi-tenant architecture, realtime updates, role-based access, audit logs. Available for licensing.
+Full POS for cafes & retail. Multi-tenant, realtime updates, RBAC, audit logs. Available for licensing.
 
 `Next.js 16` `Prisma` `Postgres` `SSE`
 
@@ -116,7 +107,7 @@ Full POS system for cafes & retail. Multi-tenant architecture, realtime updates,
 ### 🎨 [AIBuddy.design](https://www.aibuddy.design)
 **AI studio — strategy, demos, tools**
 
-Independent AI studio site with strategy, services, portfolio, and interactive AI tools (Image-to-Prompt with Gemini).
+Independent AI studio: services, portfolio, and interactive AI tools (Image-to-Prompt with Gemini).
 
 `Next.js` `TypeScript` `Gemini API`
 
@@ -130,7 +121,7 @@ Independent AI studio site with strategy, services, portfolio, and interactive A
 ### 🩺 [Doctor Booking MVP](https://github.com/svhPeter/doctor-booking-mvp)
 **Mobile appointment booking**
 
-Doctor appointment booking flow — built fully in Flutter for iOS + Android.
+Doctor appointment booking flow — Flutter, iOS + Android.
 
 `Flutter` `Dart`
 
@@ -150,10 +141,6 @@ Minimal, fast tip calculator. Web-based, no signup.
 
 <br/>
 
-<!-- ============================================= -->
-<!-- 📊 GITHUB STATS (animated cards) -->
-<!-- ============================================= -->
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -171,13 +158,13 @@ Minimal, fast tip calculator. Web-based, no signup.
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=svhPeter&bg_color=0f172a&color=0ea5e9&line=0ea5e9&point=22c55e&area=true&hide_border=true" />
 
+<br/><br/>
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 </div>
 
 <br/>
-
-<!-- ============================================= -->
-<!-- 🤝 LET'S WORK TOGETHER -->
-<!-- ============================================= -->
 
 ## 💬 Let's work together
 
@@ -186,10 +173,7 @@ I'm taking on freelance projects — **MVPs, landing pages, AI tools, mobile app
 <div align="center">
 
 <a href="https://www.aibuddy.design">
-  <img src="https://img.shields.io/badge/💼_HIRE_ME-aibuddy.design-0ea5e9?style=for-the-badge&labelColor=0f172a&logo=vercel" />
-</a>
-<a href="mailto:contact@aibuddy.design">
-  <img src="https://img.shields.io/badge/📧_EMAIL-contact-22c55e?style=for-the-badge&labelColor=0f172a" />
+  <img src="https://img.shields.io/badge/HIRE_ME-aibuddy.design-0ea5e9?style=for-the-badge&labelColor=0f172a&logo=vercel" />
 </a>
 
 <br/><br/>
