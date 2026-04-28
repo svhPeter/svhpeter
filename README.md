@@ -4,11 +4,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0EA5E9,50:8B5CF6,100:EC4899&height=240&section=header&text=samiverse&fontSize=85&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=software%20engineer%20%C2%B7%20product%20builder%20%C2%B7%20karachi&descAlignY=68&descAlign=50&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0EA5E9,50:8B5CF6,100:EC4899&height=240&section=header&text=samiverse&fontSize=85&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=software%20engineer%20%C2%B7%20ai-native%20%C2%B7%20karachi&descAlignY=68&descAlign=50&descSize=18" />
 
 <br/>
 
-[![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2400&pause=800&color=0EA5E9&center=true&vCenter=true&width=720&height=45&lines=i+ship+products%2C+not+side+projects.;built+for+production%2C+not+for+show.;currently+open+for+freelance+%E2%9A%A1)](https://www.aibuddy.design)
+[![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2400&pause=800&color=0EA5E9&center=true&vCenter=true&width=720&height=45&lines=software+engineer+who+ships+with+AI.;fundamentals+first.+AI+as+leverage.;currently+open+for+freelance+%E2%9A%A1)](https://www.aibuddy.design)
 
 <br/>
 
@@ -21,6 +21,7 @@
 <img src="https://komarev.com/ghpvc/?username=svhPeter&label=visitors&color=0ea5e9&style=flat-square&labelColor=0f172a" />
 <img src="https://img.shields.io/github/followers/svhPeter?label=followers&style=flat-square&color=0ea5e9&labelColor=0f172a" />
 <img src="https://img.shields.io/github/stars/svhPeter?label=stars&style=flat-square&color=eab308&labelColor=0f172a" />
+<img src="https://img.shields.io/github/last-commit/svhPeter/svhpeter?style=flat-square&label=last%20pushed&color=ec4899&labelColor=0f172a" />
 
 </div>
 
@@ -29,18 +30,18 @@
 ---
 
 <!-- ============================================= -->
-<!-- 👋 INTRO — story-driven -->
+<!-- 👋 INTRO -->
 <!-- ============================================= -->
 
 ```diff
 @@ hey, i'm sami @@
 
-- another dev with a portfolio site
-+ a software engineer who actually ships products
+- another "AI developer" who only knows how to prompt
++ a software engineer who uses AI as leverage, not as a crutch
 
-  i build things people pay for.
-  not tutorials. not clones. not "just for fun."
-  real products. real users. real revenue.
+  fundamentals first. AI tools second.
+  i ship real products to production —
+  faster than traditional dev, deeper than vibe coders.
 ```
 
 <br/>
@@ -49,19 +50,60 @@
 
 ```ts
 const sami = {
-  role:        "Software Engineer · Product Builder",
+  role:        "Software Engineer · AI-Native · Product Builder",
   based_in:    "Karachi, Pakistan 🇵🇰",
   timezone:    "UTC+5 — overnight delivery for EU/US clients",
-  ships:       ["full-stack web", "cross-platform mobile", "SaaS products"],
+  ships:       ["full-stack web", "cross-platform mobile", "SaaS", "AI products"],
+  philosophy:  "you can't direct AI well if you don't understand what it's writing",
   obsessed_with: ["clean UIs", "fast load times", "code that survives prod"],
-  not_into:    ["scope creep", "unpaid 'opportunities'", "10-meeting decisions"],
+  curious_about: ["astronomy", "shaders", "3D graphics on the web"],
   available:   true
 };
 ```
 
 <br/>
 
-> **the short version:** i take ideas → ship them as production-grade products. usually in days, not months.
+> i build with AI in the loop — Cursor, Claude, Copilot, GPT — but i write systems, not just prompts.
+> the AI helps me move 10x faster.
+> the engineering keeps the code from falling apart in production.
+
+<br/>
+
+---
+
+<!-- ============================================= -->
+<!-- 🤖 HOW I USE AI (the differentiator) -->
+<!-- ============================================= -->
+
+## 🤖 how i actually work with AI
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ✅ what i use AI for
+- scaffolding boilerplate fast
+- generating first-draft logic, then refining
+- writing tests + docs
+- explaining unfamiliar APIs
+- refactoring at scale
+- debugging complex stack traces
+
+</td>
+<td width="50%" valign="top">
+
+### 🚫 what i don't outsource to AI
+- system architecture decisions
+- security-critical logic (auth, payments)
+- database schema design
+- production debugging without understanding
+- code i can't read and modify myself
+
+</td>
+</tr>
+</table>
+
+> the rule i follow: **"if i can't explain why my code works, the AI didn't write code — it wrote a future bug."**
 
 <br/>
 
@@ -91,10 +133,11 @@ const sami = {
 
 <div align="center">
 
-| product | what it is | status | links |
+| project | what it is | status | links |
 |:-------:|:-----------|:------:|:------|
 | 🏪 **ShopPOS** | Multi-tenant POS SaaS for cafes & retail | ![](https://img.shields.io/website?url=https%3A%2F%2Fshop-pos-sand.vercel.app&up_message=LIVE&down_message=DOWN&style=flat-square&color=22c55e&label=) | [demo](https://shop-pos-sand.vercel.app/) · [showcase](https://github.com/svhPeter/shop-pos-showcase) |
-| 🎨 **AIBuddy.design** | Independent studio — strategy, demos, tools | ![](https://img.shields.io/website?url=https%3A%2F%2Fwww.aibuddy.design&up_message=LIVE&down_message=DOWN&style=flat-square&color=22c55e&label=) | [site](https://www.aibuddy.design) |
+| 🎨 **AIBuddy.design** | Independent studio — strategy, demos, AI tools | ![](https://img.shields.io/website?url=https%3A%2F%2Fwww.aibuddy.design&up_message=LIVE&down_message=DOWN&style=flat-square&color=22c55e&label=) | [site](https://www.aibuddy.design) |
+| 🪐 **Cosmicweb** | Interactive 3D solar system & space learning platform | ![](https://img.shields.io/website?url=https%3A%2F%2Fcosmicweb-nine.vercel.app&up_message=LIVE&down_message=DOWN&style=flat-square&color=22c55e&label=) | [demo](https://cosmicweb-nine.vercel.app) · [repo](https://github.com/svhPeter/cosmicweb) |
 | 🩺 **Doctor Booking** | Mobile appointment booking — Flutter | `MVP` | [repo](https://github.com/svhPeter/doctor-booking-mvp) |
 | 💰 **TipBuddy** | Minimal tip calculator | `LIVE` | [repo](https://github.com/svhPeter/Tipbuddy.com) |
 
@@ -107,18 +150,71 @@ const sami = {
 ---
 
 <!-- ============================================= -->
-<!-- ⚡ TECH STACK ICONS -->
+<!-- 🪐 COSMICWEB SPOTLIGHT -->
+<!-- ============================================= -->
+
+## 🪐 spotlight: Cosmicweb
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+an interactive **3D solar system and space learning platform** — built because i love astronomy and wanted to make space feel less like a textbook and more like an experience.
+
+real-time motion simulations, custom shaders, scene cameras, concept posters, mobile-optimized rendering. shipping shader fixes for ice giants on mobile is exactly the kind of weird problem i enjoy solving.
+
+`Next.js` `TypeScript` `Three.js` `Tailwind` `Custom Shaders`
+
+🌐 [live demo](https://cosmicweb-nine.vercel.app) · [source](https://github.com/svhPeter/cosmicweb)
+
+</td>
+<td width="40%" valign="top">
+
+```yaml
+project: Cosmicweb
+type:    Personal · Open Source
+status:  Active development
+focus:
+  - 3D solar system
+  - Realtime simulations
+  - Custom shaders
+  - Mobile optimization
+why:     "I love astronomy"
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<!-- ============================================= -->
+<!-- ⚡ STACK -->
 <!-- ============================================= -->
 
 ## ⚡ what i build with
 
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,flutter,dart,firebase,supabase,postgres,prisma,vercel&perline=12)](https://skillicons.dev)
-
-<sub>+ git, figma, vscode, postman, docker — basically the usual production-grade toolkit</sub>
+[![Skills](https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,flutter,dart,firebase,supabase,postgres,prisma,threejs,vercel&perline=13)](https://skillicons.dev)
 
 </div>
+
+### 🤖 AI tools in my workflow
+
+<div align="center">
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000?style=for-the-badge&logo=cursor&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Copilot](https://img.shields.io/badge/Copilot-000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+
+</div>
+
+<sub><i>used as leverage, not replacement. i can read, modify, and debug everything that ships.</i></sub>
 
 <br/>
 
@@ -135,21 +231,22 @@ const sami = {
 <td width="50%" valign="top">
 
 ### 🚧 building
-- multi-tenant SaaS products
 - shipping ShopPOS to early licensees
-- experimenting with realtime architectures
+- iterating on Cosmicweb (shader work, mobile perf)
+- taking on freelance projects
 
-### 📚 learning
-- advanced Next.js patterns (server actions, partial prerendering)
-- scaling Postgres for multi-tenancy
-- product positioning that actually converts
+### 📚 exploring
+- advanced Next.js patterns
+- multi-tenant SaaS scaling
+- 3D graphics + shader programming
+- AI agent architectures (real ones, not chatbots)
 
 </td>
 <td width="50%" valign="top">
 
 ### ☕ fueled by
 - karak chai (the real productivity hack)
-- deadlines (scary but effective)
+- deadlines
 - clients who pay on time
 - shipping > perfecting
 
@@ -167,10 +264,10 @@ const sami = {
 ---
 
 <!-- ============================================= -->
-<!-- 💼 WHAT I OFFER -->
+<!-- 💼 SERVICES -->
 <!-- ============================================= -->
 
-## 💼 what i offer (and what it costs)
+## 💼 what i offer
 
 <table>
 <tr>
@@ -194,9 +291,14 @@ const sami = {
 <td>2–3 weeks</td>
 </tr>
 <tr>
-<td><b>🔧 Custom development</b></td>
-<td>Features, integrations, API work, debugging</td>
-<td>scoped per task</td>
+<td><b>🤖 AI integration</b></td>
+<td>LLM features in your product — chat, agents, automation</td>
+<td>1–2 weeks</td>
+</tr>
+<tr>
+<td><b>🎨 3D / interactive web</b></td>
+<td>Three.js, custom shaders, immersive experiences</td>
+<td>scoped per project</td>
 </tr>
 <tr>
 <td><b>💰 Product licensing</b></td>
@@ -212,7 +314,7 @@ const sami = {
 ---
 
 <!-- ============================================= -->
-<!-- 🏆 GITHUB TROPHIES -->
+<!-- 🏆 TROPHIES -->
 <!-- ============================================= -->
 
 ## 🏆 trophies (the github gamification kind)
@@ -267,7 +369,7 @@ const sami = {
 ---
 
 <!-- ============================================= -->
-<!-- 📈 ACTIVITY -->
+<!-- 📈 ACTIVITY WAVE -->
 <!-- ============================================= -->
 
 ## 📈 the wave
@@ -276,7 +378,35 @@ const sami = {
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=svhPeter&bg_color=0f172a&color=ec4899&line=0ea5e9&point=22c55e&area=true&hide_border=true&custom_title=commits+over+time" />
 
-<br/><br/>
+</div>
+
+<br/>
+
+---
+
+<!-- ============================================= -->
+<!-- 😄 RANDOM JOKE -->
+<!-- ============================================= -->
+
+## 😄 daily refresh, daily laugh
+
+<div align="center">
+
+![Joke](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true&bgColor=0f172a&textColor=ffffff&qColor=0ea5e9&aColor=ec4899)
+
+<sub><i>refresh the page for a new one</i></sub>
+
+</div>
+
+<br/>
+
+---
+
+<!-- ============================================= -->
+<!-- 💭 QUOTE -->
+<!-- ============================================= -->
+
+<div align="center">
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
@@ -287,7 +417,7 @@ const sami = {
 ---
 
 <!-- ============================================= -->
-<!-- 💬 LET'S TALK -->
+<!-- 💬 CTA -->
 <!-- ============================================= -->
 
 ## 💬 let's build something
@@ -314,7 +444,7 @@ i'd love to hear about it.
 <br/>
 
 ```yaml
-project_type: "MVP / landing page / custom build / licensing inquiry"
+project_type: "MVP / landing page / mobile / AI / 3D / licensing"
 goal: "what should this thing accomplish?"
 timeline: "when do you need it?"
 budget_range: "rough range — saves time for both of us"
